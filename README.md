@@ -1,5 +1,5 @@
 # ASE Data from Reference Cohorts
-Allele-Specifc Expression Data From Reference and Cases
+Allele-Specifc Expression Data From Reference Cohorts Following Best Practices
 
 ## Data Repository
 #### MAGE_ASE.tar.xz
