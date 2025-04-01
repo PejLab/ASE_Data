@@ -1,4 +1,4 @@
-# ASE_Data
+# ASE Data from Reference Cohorts
 Allele-Specifc Expression Data From Reference and Cases
 
 ## Data Repository
